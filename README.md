@@ -19,7 +19,7 @@ An educational multipage website that offers varieties of courses.
 
 ## Screenshots
 
-![Example screenshot](../images/screencapture.png)
+![Example screenshot](images/screencapture.png)
 
 ## Setup
 
