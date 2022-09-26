@@ -579,7 +579,7 @@ footer ul li a:hover {
 
   /* CATEGORIES */
   .categories_right {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 
   .category_icon {
